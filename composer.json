@@ -21,10 +21,4 @@
         "psr-0": { "Wchojnacki\\ExampleMenuBundle\\": "" }
     },
     "target-dir": "Wchojnacki/ExampleMenuBundle",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:wchojnacki/example-menu-bundle.git"
-        }
-    ],
 }
