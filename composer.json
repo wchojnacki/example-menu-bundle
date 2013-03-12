@@ -20,5 +20,5 @@
     "autoload":     {
         "psr-0": { "Wchojnacki\\ExampleMenuBundle\\": "" }
     },
-    "target-dir": "Wchojnacki/ExampleMenuBundle",
+    "target-dir": "Wchojnacki/ExampleMenuBundle"
 }
