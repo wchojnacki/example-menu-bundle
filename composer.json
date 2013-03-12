@@ -1,0 +1,24 @@
+{
+    "name":         "wchojnacki/example-menu-bundle",
+    "type":         "symfony-bundle",
+    "description":  "Training example",
+    "keywords":     ["training", "example"],
+    "homepage":     "http://ioki.com.pl",
+    "license":      "MIT",
+    "authors":      [
+        {
+            "name":     "Wojciech Chojnacki",
+            "email":    "wchojnacki@ioki.com.pl"
+        }
+    ],
+    "require":      {
+        "php":  ">=5.3.0",
+        "symfony/framework-bundle": ">=2.1,<2.3-dev",
+        "doctrine/doctrine-fixtures-bundle": ">=2.1,<2.3-dev",
+        "stof/doctrine-extensions-bundle": ">=1.1,<1.2-dev"
+    },
+    "autoload":     {
+        "psr-0": { "Wchojnacki\\ExampleMenuBundle\\": "" }
+    },
+    "target-dir": "Wchojnacki/ExampleMenuBundle"
+}
