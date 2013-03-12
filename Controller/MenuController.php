@@ -13,7 +13,7 @@ use Wchojnacki\ExampleMenuBundle\Form\MenuType;
 /**
  * Menu controller.
  *
- * @Route("/menu")
+ * @Route("/admin/menu")
  */
 class MenuController extends Controller
 {

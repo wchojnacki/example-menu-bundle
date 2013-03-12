@@ -21,7 +21,7 @@ class DefaultController extends Controller
     /**
      * Finds and displays a Menu entity.
      *
-     * @Route("/{slug}", name="frontend_menu_show")
+     * @Route("/text/{slug}", name="frontend_menu_show")
      * @Method("GET")
      * @Template()
      */
