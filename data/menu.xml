@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+
+    <option>
+        <title>About</title>
+        <content>Lorem ipsum</content>
+    </option>
+
+    <option>
+        <title>Service</title>
+        <content>Lorem ipsum</content>
+    </option>
+
+    <option>
+        <title>Contact us</title>
+        <content>Lorem ipsum</content>
+    </option>
+
+</options>
